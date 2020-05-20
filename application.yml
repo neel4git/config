@@ -1,2 +1,6 @@
 application:
     message: Configured by Azure Spring Cloud!
+    
+spring:
+    application:
+        name: test-application
